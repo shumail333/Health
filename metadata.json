@@ -1,0 +1,7 @@
+{
+  "name": "SilverHealth Companion",
+  "description": "An accessible, senior-focused health management app featuring medication reminders, vital sign tracking, and a voice-powered AI health companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
